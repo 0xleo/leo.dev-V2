@@ -1,0 +1,8 @@
+.perfil{
+    max-width: 110px;
+    max-height: 110px;
+    margin-bottom: 100px;
+    border-radius: 100%;
+    border: 20px solid rgb(19, 44, 61);
+}
+
